@@ -1,4 +1,3 @@
-import pyautogui
 import os
 from openai import OpenAI
 
