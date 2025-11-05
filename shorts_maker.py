@@ -18,5 +18,4 @@ def generate_short_script(script_prompt):
 
 def main():
     script = generate_short_script(prompt)
-    print("Generated Script:")
     print(script)
